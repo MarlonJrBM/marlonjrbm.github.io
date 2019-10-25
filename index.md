@@ -6,9 +6,7 @@ sub_title: "Software Developer"
 #TODO - find a nice image later
 #image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
-  Brazilian living in France, I'm a software developer in the EDA industry. I have experience with low-level and high-level systems, having worked with a variety of programming languages, such as C++, Python, Ruby on Rails and ASP.NET. I'm interested in topics such as software engineering, computer security and personal/professional development.
-
-My current professional focus is on the EDA (Electronic Design Automation) industry. My skill set include, among others:
+  Brazilian living in France, I'm a software developer in the EDA industry. I have experience with low-level and high-level systems, having worked with a variety of programming languages, such as C++, Python, Ruby on Rails and ASP.NET. I'm interested in topics such as software engineering, computer security and personal/professional development. My current professional focus is on the EDA (Electronic Design Automation) industry and my skill set include, among others:
 - C++ Development
 - Revision Control (Git and Perforce)
 - Build Automation
@@ -28,10 +26,13 @@ actions:
   - label: "Buy me a coffee"
     icon: paypal
     url: "https://paypal.me/marlonjrbm"
-  - label: "Follow me on twitter"
+  - label: "Follow me on Twitter"
     icon: twitter
     url: "https://twitter.com/marlonjrbm"
-  - label: "Follow me on twitter"
+  - label: "Follow me on GitHub"
     icon: github
     url: "https://github.com/marlonjrbm"
+  - label: "Follow me on LinkedIn"
+    icon: linkedin
+    url: "https://www.linkedin.com/in/marlonjrbm/"
 ---
