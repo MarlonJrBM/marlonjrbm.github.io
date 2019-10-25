@@ -27,10 +27,10 @@ actions:
   - label: "Buy me a coffee"
     icon: paypal
     url: "https://paypal.me/marlonjrbm"
-  - label: "Follow me on Twitter"
+  - label: "Twitter"
     icon: twitter
     url: "https://twitter.com/marlonjrbm"
-  - label: "Follow me on LinkedIn"
+  - label: "Linkedin"
     icon: linkedin
     url: "https://www.linkedin.com/in/marlonjrbm/"
 ---
