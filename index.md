@@ -22,7 +22,7 @@ introduction: |
   - Experience with EDA Hardware Emulation Tools
   - Experience with ML (Machine Learning) algorithms
 
-  Being the "social creature" that I am, this site/blog is an attempt of mine of becoming a "social developer", let's see how it goes!
+  Being the "social creature" that I am, this site/blog is an attempt of mine of becoming a "social developer", stay tuned!
 actions:
   - label: "Buy me a coffee"
     icon: paypal
@@ -30,10 +30,7 @@ actions:
   - label: "Follow me on Twitter"
     icon: twitter
     url: "https://twitter.com/marlonjrbm"
-  - label: "Follow me on GitHub"
-    icon: github
-    url: "https://github.com/marlonjrbm"
-  - label: "Follow me on LinkedZn"
+  - label: "Follow me on LinkedIn"
     icon: linkedin
     url: "https://www.linkedin.com/in/marlonjrbm/"
 ---
