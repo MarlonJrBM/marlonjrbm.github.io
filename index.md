@@ -7,7 +7,7 @@ actions:
     url: "https://paypal.me/marlonjrbm"
 ---
 
-Brazilian living in France, I'm a software developer in the EDA industry. I have experience with low-level and high-level systems, having worked with a variety of programming languages, such as C++, Python, Ruby on Rails and ASP.NET. I'm interested in topics such as software engineering, computer security and personal/professional development. My skill set include, among others:
+Brazilian living in France, I'm a software developer in the EDA industry. I have experience with low-level and high-level systems, having worked with a variety of programming languages, such as C++, Python, Ruby on Rails and ASP.NET. I'm interested in topics such as open-source, software engineering, computer security and personal/professional development. My skill set include, among others:
 
 - C++ Development
 - Experience with various EDA Tools (such as ZeBu, Verdi and VCS)
