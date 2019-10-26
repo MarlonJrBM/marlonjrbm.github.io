@@ -25,4 +25,4 @@ Brazilian living in France, I'm a software developer in the EDA industry. I have
 
 Other than computers, some of the things I really enjoy are cycling, crossfit, mindfulness and beers. I also believe in my duty to try and make the community around me a better place through voluntary work, so I'm a proud member of [Rotaract](https://www.rotary.org/en/get-involved/rotaract-clubs).
 
-If you would like to connect, the pleasure would be all mine. Send me an e-mail (marlonbr1@gmail.com) or message me in your favorite social network (@marlonjrbm).
+If you would like to connect, the pleasure would be all mine! Send me an e-mail (marlonbr1@gmail.com) or message me in your favorite social network (@marlonjrbm).
