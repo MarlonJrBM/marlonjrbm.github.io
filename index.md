@@ -16,13 +16,13 @@ Brazilian living in France, I'm a software developer in the EDA industry. I have
 - Software Refactoring
 - Architectural and Design Patterns
 - Software Testing (automated unit and integration testing, TDD)
-- Algorithm design and analysis (computational complexity)
+- Algorithm design and analysis
 - Development experience in UNIX-like systems and their associated scripting languages
 - Understanding of Software Development Life Cycle (SLDC)
 - Knowledge of Software Development Methodologies (Agile, Scrum, etc)
-- Experience with Compiler Development
+- Experience with Compiler and Language Development
 - Experience with ML (Machine Learning) algorithms
 
-Other than computers, some of the things I really enjoy are cycling, crossfit, mindfulness and beers. I also believe in my duty to try and make the community around me a better place through voluntary work, hence I'm a proud member of [Rotaract](https://www.rotary.org/en/get-involved/rotaract-clubs)
+Other than computers, some of the things I really enjoy are cycling, crossfit, mindfulness and beers. I also believe in my duty to try and make the community around me a better place through voluntary work, so I'm a proud member of [Rotaract](https://www.rotary.org/en/get-involved/rotaract-clubs).
 
 If you would like to connect, the pleasure would be all mine. Send me an e-mail (marlonbr1@gmail.com) or message me in your favorite social network (@marlonjrbm). =D
