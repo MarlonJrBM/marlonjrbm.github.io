@@ -7,7 +7,7 @@ tags:
   - programming
   - software development
 excerpt_separator: "<!--more-->"
-image: '/assets/images/waveform.jpg'
+#image: '/assets/images/waveform.jpg'
 ---
 
 Here’s a typical conversation I often find myself having:
@@ -27,7 +27,7 @@ Here’s a typical conversation I often find myself having:
 
 My usual answer is not very descriptive, I know. Sometimes I say “I work in the EDA Industry” but that doesn’t seem to be any more helpful. There are even some people who work with software development and don’t have the slightest clue, but I don’t blame them. Software Development for EDA is definitely not as popular these days as Web Development or Mobile Development. Yet the EDA industry will hardly go extinct before humankind does. Why, you ask? Well, that’s what I hope to show in this post. =)
 
-
+![](/assets/images/waveform.jpg)
 
 ## So what is EDA?
 EDA stands for Electronic Design Automation, and is sometimes referred to ECAD (Electronic Computer-Aided Design). In a nutshell, this industry builds software solutions that aid the design of hardware components or electronic systems, such as integrated circuits and printed circuit boards. Since these electronic systems can be huge nowadays (have over billions of components), software tools are essential for their creation. These tools can come in many different flavors, as the EDA field can be divided into several subareas, like logic simulation, hardware emulation, formal verification, among many, many others.
