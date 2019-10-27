@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Marlon Marques
-email: 
+email:
 description: "Software Developer"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://marlonjrbm.github.io
@@ -27,7 +27,7 @@ twitter_username: MarlonJrBM
 github_username: MarlonJrBM
 linkedin_username: MarlonJrBM
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: true # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
@@ -50,6 +50,9 @@ feed:
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
+
+disqus:
+  shortname: 'marlon-marques'
 
 # Exclude from processing.
 exclude:
