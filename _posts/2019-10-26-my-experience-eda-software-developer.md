@@ -7,7 +7,6 @@ tags:
   - programming
   - software development
 excerpt_separator: "<!--more-->"
-#image: '/assets/images/waveform.jpg'
 ---
 
 Here’s a typical conversation I often find myself having:
