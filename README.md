@@ -10,6 +10,7 @@ Long live Jekyll !
 
 - Assuming you already have Ruby and Jekyll and its dependencies installed in your Linux distro! Check <https://jekyllrb.com/docs/installation/ubuntu/>
 - cd $REPO_ROOT
+- bundle install
 - bundle exec jekyll serve
 - Open up your browser to <http://localhost:4000/>
 

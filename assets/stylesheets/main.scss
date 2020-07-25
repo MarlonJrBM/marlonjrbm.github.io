@@ -8,3 +8,6 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+// Option that might improve image in home page
+//$intro-image-color-overlay: true;
