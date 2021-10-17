@@ -31,4 +31,5 @@ I will let you take a look at the articles as they explain it really well. Witho
 - [The Performance Benefits of Final Classes](https://devblogs.microsoft.com/cppblog/the-performance-benefits-of-final-classes/) 
 - [CRTP Interface technique](https://www.foonathan.net/2021/10/crtp-interface/)
 
-Thanks !
+
+Any questions, comments? Feel free to share ! :D
