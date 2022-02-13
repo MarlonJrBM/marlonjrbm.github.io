@@ -37,7 +37,7 @@ Yes, because we usually steer our lives around one or more centers. According to
 
 ![](/assets/images/7-Habits-Principle-Centered.png)
 
-I personally believe it is quite difficult to find principles to live by for your whole life, especially in this liquid modernity that we live in, except if they are quite vague. Still, even if you are not sure of your principles, you will find great knowledge in this book. I understand this short reflection might not be enough to persuade someone to read the book, but you should nevertheless give it a chance. I cannot recommend this book enough !
+I personally believe it is quite difficult to find principles to live by for your whole life, especially in this liquid modernity that we live in. Still, even if you are not sure of your principles, you will find great knowledge in this book. I understand this short reflection might not be enough to persuade someone to read the book, but you should nevertheless give it a chance. I cannot recommend this book enough !
 
 Any thoughts or comments? Are you fascinated by this book as I am? Feel free to leave a comment if you feel like it. :)
 
