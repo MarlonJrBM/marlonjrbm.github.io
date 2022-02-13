@@ -9,7 +9,7 @@ tags:
 excerpt_separator: "<!--more-->"
 ---
 
-The 7 Habits of Highly Effective People, by Stephen R. Covey. This has got to be one of my favorite books ever. It has a very clickbait title, I’ll be the first to admit it, still, but do not let that demotivate you. This book does contain many invaluable teachings that will never age. 
+The 7 Habits of Highly Effective People, by Stephen R. Covey. This has got to be one of my favorite books ever. It has a very clickbait title, I’ll be the first to admit it. Do not let that demotivate you. This book contains many invaluable teachings that will never age. 
 
 <!--more-->
 
