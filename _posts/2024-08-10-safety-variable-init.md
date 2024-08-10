@@ -20,7 +20,7 @@ What is the value of ii ? No one knows. This is a classic example of undefined b
 
 Starting from C++26, however, things change. This is no longer undefined behavior, but erroneous behavior ([the proposal explains what that is](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p2795r5.html)). To make things short, the standard says for cases like this, the compiler must initialize with an "erroneous value" it knows about. In other words, it's not random bytes from memory anymore, it's a well-defined, non-null sentinel value.
 
-Check out my godbolt example (https://godbolt.org/z/a9cdbhr49) using the compilation flag *-ftrivial-auto-var-init=pattern*. For GCC, the int value gets initialized to **0xFFFF'FFFF'FEFE'FEFE**. For chars, it gets the value **-2**. These values are predictable (albeit not necessarily the same across vendors and versions) and could be used by compilers and/or developers to handle the code appropriately.
+Check out my [godbolt example](https://godbolt.org/z/a9cdbhr49) using the compilation flag *-ftrivial-auto-var-init=pattern*. For GCC, the int value gets initialized to **0xFFFF'FFFF'FEFE'FEFE**. For chars, it gets the value **-2**. These values are predictable (albeit not necessarily the same across vendors and versions) and could be used by compilers and/or developers to handle the code appropriately.
 
 For information, I was able to get this working with GCC as early as 12.1. Clang-wise, I got it working on version 8.0.0.
 
@@ -34,6 +34,6 @@ So, what do you think? I believe this is a great feature, as safety is becoming 
 
 ## Sources
 
-- Erroneous behaviour for uninitialized reads (Thomas Koppe)  https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p2795r5.html
+- Erroneous behaviour for uninitialized reads (Thomas Koppe) (https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p2795r5.html)
 
-- What does it mean to initialize an int? (Herb Sutter) https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/
+- What does it mean to initialize an int? (Herb Sutter) (https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/)
